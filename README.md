@@ -8,7 +8,7 @@ To search across most of these, use http://govpond.org.
 
 # State/Territory
 * Victoria: http://data.vic.gov.au (CKAN)
-** VicRoads: http://vicroadsopendata.vicroadsmaps.opendata.arcgis.com/ (ArcGIS)
+  * VicRoads: http://vicroadsopendata.vicroadsmaps.opendata.arcgis.com/ (ArcGIS)
 * NSW: http://data.nsw.gov.au (CKAN)
 * SA: http://data.sa.gov.au (CKAN)
 * QLD: http://data.qld.gov.au (CKAN)
